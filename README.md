@@ -1,3 +1,6 @@
+# NEWER APPROACH
+This project served as a way to connect Python with Unity 3D. However, in my current project (https://github.com/NumesSanguis/FACSvatar) I switched to ZeroMQ for this, which is more stable and more robust than the code found here. So I would recommend looking at that code.
+
 # Basic-Unity-Head-Rotation
 Moving a humanoid head in Unity 3D by scripting. Both by head bone rotation (Bone scene) and muscle values (Muscle scene).
 
